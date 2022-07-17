@@ -1,34 +1,60 @@
 ---
+- group: User
+  items:
+    - title: user register
+      url: /user/user_register
+      icon: fab fa-reddit
+    - title: input money
+      url: /user/input_money
+      icon: fab fa-facebook
+    - title: output money
+      url: /user/input_money
+      icon: fab fa-facebook
+    - title: transacttion
+      url: /user/transacttion
+      icon: fab fa-facebook
+    - title: refund
+      url: /user/refund
+      icon: fab fa-facebook
+- group: Manager
+  items:
+    - title: user register
+      url: /manager/user_register
+      icon: fab fa-github
+    - title: input money
+      url: /manager/input_money
+      icon: fab fa-github      
+    - title: output moeny
+      url: /manager/output_money
+      icon: fab fa-github
+- group: Senior Manager
+  items:
+    - title: user register
+      url: /senior_manager/user_register
+      icon: fab fa-github
+    - title: input money
+      url: /senior_manager/input_money
+      icon: fab fa-github      
+    - title: output moeny
+      url: /senior_manager/output_money
+      icon: fab fa-github
 - group: System Manager
   items:
-    - title: user manager
-      url: /login
-      icon: fab fa-reddit
-    - title: Group Manager
-      url: https://www.facebook.com
-      icon: fab fa-facebook
-    - title: Role Manager
-      url: https://www.facebook.com
-      icon: fab fa-facebook
-- group: Coin Manager
-  items:
-    - title: Input Manager
-      url: https://www.github.com
+    - title: Modeler
+      url: /system_manager/Modeler
       icon: fab fa-github
-    - title: Output Manager
-      url: https://www.github.com
+    - title: Process_list
+      url: /system_manager/process_list
       icon: fab fa-github      
-    - title: Transaction Manager
-      url: https://www.github.com
+    - title: user
+      url: /system_manager/user
       icon: fab fa-github
-- group: Other Manager
-  items:
-    - title: Abuse Report
-      url: https://www.github.com
+    - title: role
+      url: /system_manager/role
       icon: fab fa-github
-    - title: Document Manager
-      url: https://www.github.com
-      icon: fab fa-github      
-    - title: Application Manager
-      url: https://www.github.com
+    - title: user role
+      url: /system_manager/user_role
+      icon: fab fa-github
+    - title: setting
+      url: /system_manager/setting
       icon: fab fa-github
