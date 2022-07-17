@@ -8,7 +8,7 @@
       url: /user/input_money
       icon: fab fa-facebook
     - title: output money
-      url: /user/input_money
+      url: /user/output_money
       icon: fab fa-facebook
     - title: transacttion
       url: /user/transacttion
