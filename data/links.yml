@@ -1,0 +1,34 @@
+---
+- group: System Manager
+  items:
+    - title: user manager
+      url: /login
+      icon: fab fa-reddit
+    - title: Group Manager
+      url: https://www.facebook.com
+      icon: fab fa-facebook
+    - title: Role Manager
+      url: https://www.facebook.com
+      icon: fab fa-facebook
+- group: Coin Manager
+  items:
+    - title: Input Manager
+      url: https://www.github.com
+      icon: fab fa-github
+    - title: Output Manager
+      url: https://www.github.com
+      icon: fab fa-github      
+    - title: Transaction Manager
+      url: https://www.github.com
+      icon: fab fa-github
+- group: Other Manager
+  items:
+    - title: Abuse Report
+      url: https://www.github.com
+      icon: fab fa-github
+    - title: Document Manager
+      url: https://www.github.com
+      icon: fab fa-github      
+    - title: Application Manager
+      url: https://www.github.com
+      icon: fab fa-github
